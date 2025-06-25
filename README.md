@@ -55,6 +55,5 @@ CI/CD stands for Continuous Integration and Continuous Development. The end goal
 
 ## Excited to share my progress - do this challenge with me!
 
-![Image](http://learn.nextwork.org/heartfelt_olive_loyal_melon/uploads/aws-devops-cicd_ba6d42ae)
 
 ---
